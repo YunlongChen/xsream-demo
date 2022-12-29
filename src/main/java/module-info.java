@@ -1,5 +1,7 @@
 module xsream.demo {
     requires lombok;
     requires xstream;
-    opens cn.chenyunlong;
+    requires java.base;
+
+    opens cn.chenyunlong.xstream;
 }

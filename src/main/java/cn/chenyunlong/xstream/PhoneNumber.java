@@ -1,4 +1,4 @@
-package cn.chenyunlong;
+package cn.chenyunlong.xstream;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

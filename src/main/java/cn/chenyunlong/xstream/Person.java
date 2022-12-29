@@ -1,4 +1,4 @@
-package cn.chenyunlong;
+package cn.chenyunlong.xstream;
 
 import com.thoughtworks.xstream.annotations.XStreamAlias;
 import lombok.AllArgsConstructor;
